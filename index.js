@@ -16,6 +16,6 @@ console.log(prime(-1))
 console.log(prime(2))
 console.log(prime(3))
 console.log(prime(4))
-console.log(prime(4))
+
 
 // Big O = O(sqrt(n))
